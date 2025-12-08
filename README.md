@@ -13,6 +13,6 @@ A comprehensive deobfuscator for ArmDot-protected .NET assemblies using dnlib. S
 ### Control Flow DeObfuscation
 ✅ Working
 
-### Virtualization DeObfuscation
+### Virtualization [for like 90% of Callis] DeObfuscation
 ✅ Working
 
