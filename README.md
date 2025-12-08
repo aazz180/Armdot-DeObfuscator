@@ -1,14 +1,18 @@
 # Armdot DeObfuscator
-star the repository and i will publicly post it!
+
+A comprehensive deobfuscator for ArmDot-protected .NET assemblies using dnlib. Star the repository and I will publicly post it! when its done or we get stars.
 
 ## Features
 
-**String DeObfuscation**
-Working.
+### String DeObfuscation
+✅ Working
 
-**Calli DeObfuscation**
-Working.
+### Calli DeObfuscation
+✅ Working
 
-**Control Flow DeObfuscation**
-Currently in progress.
+### Control Flow DeObfuscation
+✅ Working
+
+### Virtualization DeObfuscation
+✅ Working
 
