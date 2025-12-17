@@ -2,8 +2,6 @@
 
 A deobfuscator for **ArmDot-protected .NET assemblies**
 
-> Star the repository and I will publicly post it when it's done or we get stars!
-
 ---
 
 ## Features
