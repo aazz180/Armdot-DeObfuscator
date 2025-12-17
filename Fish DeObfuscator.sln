@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11123.170
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish DeObfuscator", "Fish DeObfuscator\Fish DeObfuscator.csproj", "{0684CFFB-4AA9-4486-9636-8258320DE561}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{D725A063-A0E8-4467-9738-69D9E67EAE2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEXE", "Modules\SampleEXE\SampleEXE.csproj", "{6845620B-FA80-4CCE-9D75-66602869BA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish DeObfuscator.UI", "Fish DeObfuscator.UI\Fish DeObfuscator.UI.csproj", "{88FF2788-A8B4-B344-1B4D-1224458B653D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Debug|x64.Build.0 = Debug|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Release|x64.ActiveCfg = Release|Any CPU
+		{0684CFFB-4AA9-4486-9636-8258320DE561}.Release|x64.Build.0 = Release|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Debug|x64.Build.0 = Debug|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Release|x64.ActiveCfg = Release|Any CPU
+		{6845620B-FA80-4CCE-9D75-66602869BA8A}.Release|x64.Build.0 = Release|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Debug|x64.Build.0 = Debug|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Release|x64.ActiveCfg = Release|Any CPU
+		{88FF2788-A8B4-B344-1B4D-1224458B653D}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6845620B-FA80-4CCE-9D75-66602869BA8A} = {D725A063-A0E8-4467-9738-69D9E67EAE2F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB26893-0EA3-4F01-99D2-C110440B6B30}
+	EndGlobalSection
+EndGlobal
